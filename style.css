@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -723,7 +723,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #F3976C;
 }
 
 h4 {
@@ -775,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F3976C;
 }
 
 .btn-atomic-tangerine {
@@ -1058,3 +1058,33 @@ h4 {
     font-size: 21px;
     font-weight: 500;
 }
+
+.text-center div
+{
+    font-size: 12px;
+}
+
+.text-auto
+{
+    font-size:revert;
+}
+
+.text-header
+{
+    color: gray;
+
+}
+
+.col-sm-12 .title-contact
+{
+    font-size: 32px;
+    font-weight: bolder;
+    text-align: center;
+    color:#000000;
+}
+
+.col-sm-12 .text-under
+{
+    font-size: 15px;
+}
+
