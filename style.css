@@ -1040,3 +1040,21 @@ h4 {
         text-align: center;
     }
 }
+
+.text_size
+{
+    font-family: sans-serif;
+    letter-spacing: -1px;
+    line-height:23px;
+    color: gray;
+    font-size: 21px;
+    font-weight: 500;
+}
+
+.text2
+{
+    letter-spacing: -1px;
+    font-style: oblique;
+    font-size: 21px;
+    font-weight: 500;
+}
