@@ -1109,3 +1109,14 @@ h4 {
     font-size: 15px;
 }
 
+.form-group label
+{
+    display: block;
+    width: 100%;
+}
+
+.form-control
+{
+    width: 60%;
+}
+
