@@ -399,7 +399,7 @@ a:hover {
         float: none;
         margin: 10px auto 0;
     }
-    .nav-toggle
+    #nav-toggle
     {
         display: none;
     }
