@@ -1121,3 +1121,28 @@ h4 {
     width: 60%;
 }
 
+#img_contact::before
+{
+    position: relative;
+}
+
+#img_contact
+{
+    vertical-align: middle;
+}
+
+#link_nav
+{
+    margin: auto;
+}
+
+#tog
+{
+    display: none;
+}
+
+/*#logo-contact
+{
+    display: table-row;
+}*/
+
