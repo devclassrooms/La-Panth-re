@@ -1145,6 +1145,11 @@ h4 {
     display: none;
 }
 
+#lightbox-image
+{
+    max-width: 400px;
+}
+
 /*#logo-contact
 {
     display: table-row;
