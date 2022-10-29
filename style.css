@@ -569,6 +569,7 @@ a[data-lightbox]:hover img {
 #lightbox-modal {
     display: flex;
     align-items: center;
+    max-width: 300px;
 }
 
 #lightbox-modal .modal-dialog {
@@ -1143,11 +1144,6 @@ h4 {
 #tog
 {
     display: none;
-}
-
-#lightbox-image
-{
-    max-width: 300px;
 }
 
 /*#logo-contact
